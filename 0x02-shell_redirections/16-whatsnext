@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -A "root" /root/passwd
+grep -iA "root" /root/passwd
